@@ -23,7 +23,7 @@ export class CriarPensamentoComponent implements OnInit {
     this.formulario = this.formBuilder.group({
       conteudo: ['', [Validators.required]],
       autoria: ['', [Validators.required]],
-      modelo: ['modelo1']
+      modelo: ['modelo2']
     })
   }
 
