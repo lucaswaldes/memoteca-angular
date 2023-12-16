@@ -5,11 +5,60 @@
       "conteudo": "agora eu consegui",
       "autoria": "agora eu consegui",
       "modelo": "modelo3",
-      "favorito": true
+      "favorito": false
     },
     {
       "id": 2,
-      "conteudo": "teste",
+      "conteudo": "Pensamento 1",
+      "autoria": "Lucas",
+      "modelo": "modelo3",
+      "favorito": false
+    },
+    {
+      "id": 3,
+      "conteudo": "Pensamento 2",
+      "autoria": "Lucas",
+      "modelo": "modelo3",
+      "favorito": false
+    },
+    {
+      "id": 4,
+      "conteudo": "Pensamento 3",
+      "autoria": "Lucas",
+      "modelo": "modelo3",
+      "favorito": false
+    },
+    {
+      "id": 5,
+      "conteudo": "Pensamento 4",
+      "autoria": "Lucas",
+      "modelo": "modelo3",
+      "favorito": false
+    },
+    {
+      "id": 6,
+      "conteudo": "Pensamento 5",
+      "autoria": "Lucas",
+      "modelo": "modelo3",
+      "favorito": true
+    },
+    {
+      "id": 7,
+      "conteudo": "Pensamento 6",
+      "autoria": "Lucas",
+      "modelo": "modelo3",
+      "favorito": true
+    },
+    {
+      "id": 8,
+      "conteudo": "Pensamento 7",
+      "autoria": "Lucas",
+      "modelo": "modelo3",
+      "favorito": true
+    },
+    {
+      "id": 8,
+      "conteudo": "Pensamento 8",
       "autoria": "Lucas",
       "modelo": "modelo3",
       "favorito": true
