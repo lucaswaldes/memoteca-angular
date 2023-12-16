@@ -4,13 +4,15 @@
       "id": 1,
       "conteudo": "agora eu consegui",
       "autoria": "agora eu consegui",
-      "modelo": "modelo3"
+      "modelo": "modelo3",
+      "favorito": false
     },
     {
       "id": 2,
       "conteudo": "teste",
       "autoria": "Lucas",
-      "modelo": "modelo3"
+      "modelo": "modelo3",
+      "favorito": true
     }
   ]
 }
