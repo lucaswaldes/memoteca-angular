@@ -8,56 +8,8 @@
     },
     {
       "id": 2,
-      "conteudo": "agora eu consegui",
-      "autoria": "agora eu consegui",
-      "modelo": "modelo3"
-    },
-    {
-      "id": 3,
-      "conteudo": "agora eu consegui",
-      "autoria": "agora eu consegui",
-      "modelo": "modelo3"
-    },
-    {
-      "id": 4,
-      "conteudo": "agora eu consegui",
-      "autoria": "agora eu consegui",
-      "modelo": "modelo3"
-    },
-    {
-      "id": 5,
-      "conteudo": "agora eu consegui",
-      "autoria": "agora eu consegui",
-      "modelo": "modelo3"
-    },
-    {
-      "id": 6,
-      "conteudo": "agora eu consegui",
-      "autoria": "agora eu consegui",
-      "modelo": "modelo3"
-    },
-    {
-      "id": 7,
-      "conteudo": "agora eu consegui",
-      "autoria": "agora eu consegui",
-      "modelo": "modelo3"
-    },
-    {
-      "id": 8,
-      "conteudo": "agora eu consegui",
-      "autoria": "agora eu consegui",
-      "modelo": "modelo3"
-    },
-    {
-      "id": 9,
-      "conteudo": "agora eu consegui",
-      "autoria": "agora eu consegui",
-      "modelo": "modelo3"
-    },
-    {
-      "id": 10,
-      "conteudo": "agora eu consegui",
-      "autoria": "agora eu consegui",
+      "conteudo": "teste",
+      "autoria": "Lucas",
       "modelo": "modelo3"
     }
   ]

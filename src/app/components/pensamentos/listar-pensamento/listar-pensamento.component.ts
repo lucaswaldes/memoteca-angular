@@ -17,13 +17,13 @@ export class ListarPensamentoComponent implements OnInit {
   constructor(private service: PensamentoService) { }
 
   ngOnInit(): void {
-    this.service.listar(this.paginaAtual).subscribe((listaPensamentos) => {
+    this.service.listar(this.paginaAtual, this.filtro).subscribe((listaPensamentos) => {
       this.listaPensamentos = listaPensamentos
     })
   }
 
   carregarMaisPensamentos() {
-    this.service.listar(++this.paginaAtual)
+    this.service.listar(++this.paginaAtual, this.filtro)
     .subscribe((listaPensamentos) => {
       this.listaPensamentos.push(...listaPensamentos);
       if(!listaPensamentos.length) {
@@ -32,4 +32,12 @@ export class ListarPensamentoComponent implements OnInit {
     })
   }
 
+  pesquisarPensamentos() {
+    this.haMaisPensamentos = true;
+    this.paginaAtual = 1;
+    this.service.listar(this.paginaAtual, this.filtro)
+      .subscribe(listaPensamentos => {
+        this.listaPensamentos = listaPensamentos
+      })
+  }
 }
